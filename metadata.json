@@ -1,7 +1,13 @@
 {
-  "name": "Pijat Refleksi & Tradisional Pak Kuswan — Purwokerto",
-  "description": "Pijat Refleksi profesional di Purwokerto. Mengatasi pegal, keseleo, masuk angin. Layanan panggilan ke rumah atau datang ke tempat. Terapis berpengalaman, aman & terpercaya.",
+  "name": "Pijat Pak Kuswan Purwokerto — Pijat Panggilan & Tradisional Profesional",
+  "description": "Jasa pijat panggilan Pak Kuswan di Purwokerto. Pijat refleksi, tradisional, urut pegal, keseleo & masuk angin. Terapis berpengalaman, layanan ke rumah seluruh daerah Purwokerto. Booking sekarang!",
+  "keywords": "pijat pak kuswan purwokerto, pijat panggilan purwokerto, pijat tradisional purwokerto, pijat refleksi purwokerto, pijat sekitar purwokerto, pijat daerah purwokerto, pijat urut purwokerto, pijat ke rumah purwokerto",
   "requestFramePermissions": [
     "geolocation"
-  ]
+  ],
+  "og": {
+    "title": "Pijat Pak Kuswan Purwokerto — Pijat Panggilan & Tradisional Profesional",
+    "description": "Jasa pijat panggilan Pak Kuswan di Purwokerto. Pijat refleksi, tradisional, urut pegal, keseleo & masuk angin.",
+    "image": "https://pijat-pak-kuswan-purwokerto.com/og-image.jpg"
+  }
 }
