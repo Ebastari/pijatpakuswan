@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
   const heroImage = "https://i.ibb.co.com/KcqjpkZ1/Screenshot-2026-02-04-205502.png";
 
   return (
-    <section id="home" className="relative min-h-screen flex items-center overflow-hidden bg-emerald-950">
+    <section id="home" className="relative min-h-screen flex items-center overflow-hidden bg-emerald-950 pt-20 lg:pt-0 scroll-mt-20 md:scroll-mt-28">
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-r from-emerald-950 via-emerald-950/95 to-emerald-900/50"></div>
         <div className="absolute top-0 right-0 w-[800px] h-[800px] bg-emerald-500/10 rounded-full blur-[120px] -mr-96 -mt-96"></div>
