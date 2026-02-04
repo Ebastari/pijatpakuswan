@@ -1,0 +1,7 @@
+{
+  "name": "Pijat Refleksi & Tradisional Pak Kuswan — Purwokerto",
+  "description": "Pijat Refleksi profesional di Purwokerto. Mengatasi pegal, keseleo, masuk angin. Layanan panggilan ke rumah atau datang ke tempat. Terapis berpengalaman, aman & terpercaya.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
